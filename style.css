@@ -1,6 +1,6 @@
 body{
 
-  background-image:url(tenor.gif);
+  background-image:url(img/tenor.gif);
 
 }
 #all{
@@ -19,7 +19,7 @@ body{
   width: 500px;
   height:550px;
   font-size:63px;
-  background-image: url(dada.gif);
+  background-image: url(img/dada.gif);
   color: red;
 
 
@@ -32,7 +32,7 @@ body{
 
   font-size:60px;
   text-shadow: 2px 2px 2px black, 2 2 2em red;
-background-image: url(123.gif);
+background-image: url(img/123.gif);
 color: red;
 background-color:black;
 
@@ -42,7 +42,7 @@ background-color:black;
   background-color:red;
   font-size: 30px;
   text-align: center;
-  background-image: url(giphy.gif);
+  background-image: url(img/giphy.gif);
 
 
 }
